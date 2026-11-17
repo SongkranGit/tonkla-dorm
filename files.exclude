@@ -1,0 +1,5 @@
+{
+  "php.excludeFiles": {
+    "**/node_modules": true"
+  }
+}

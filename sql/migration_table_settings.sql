@@ -1,0 +1,59 @@
+
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'electrict_price_per_unit','8',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'water_price_per_unit','21',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_daily','401',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_monthly_fan','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'vat','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'vat_special','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_1','200',NULL,'ค่าอินเตอร์เนต',1,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_2','750',NULL,'ค่าเฟอร์นิเจอร์',2,1,1);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_3','400',NULL,'ค่าทีวี',3,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_monthly_air','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_monthly_house','2500',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'vat_special_property','12.5',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_4','400',NULL,'ตู้เย็น',4,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_5','200',NULL,'ค่าทำความสะอาด',5,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_monthly_air_2','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'room_rate_monthly_fan_2','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_6','200',NULL,'ตู้เย็นเล็ก',6,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (2,'extra_7','200',NULL,'อินเตอร์เน็ต',7,1,0);
+
+
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'electrict_price_per_unit','8',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'water_price_per_unit','21',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_daily','401',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_monthly_fan','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'vat','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'vat_special','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_1','200',NULL,'ค่าอินเตอร์เนต',1,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_2','750',NULL,'ค่าเฟอร์นิเจอร์',2,1,1);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_3','400',NULL,'ค่าทีวี',3,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_monthly_air','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_monthly_house','2500',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'vat_special_property','12.5',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_4','400',NULL,'ตู้เย็น',4,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_5','200',NULL,'ค่าทำความสะอาด',5,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_monthly_air_2','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'room_rate_monthly_fan_2','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_6','200',NULL,'ตู้เย็นเล็ก',6,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (3,'extra_7','200',NULL,'อินเตอร์เน็ต',7,1,0);
+
+
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'electrict_price_per_unit','8',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'water_price_per_unit','21',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_daily','401',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_monthly_fan','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'vat','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'vat_special','7',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_1','200',NULL,'ค่าอินเตอร์เนต',1,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_2','750',NULL,'ค่าเฟอร์นิเจอร์',2,1,1);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_3','400',NULL,'ค่าทีวี',3,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_monthly_air','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_monthly_house','2500',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'vat_special_property','12.5',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_4','400',NULL,'ตู้เย็น',4,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_5','200',NULL,'ค่าทำความสะอาด',5,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_monthly_air_2','1750',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'room_rate_monthly_fan_2','2250',NULL,NULL,NULL,0,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_6','200',NULL,'ตู้เย็นเล็ก',6,1,0);
+INSERT INTO settings (`branch_id`,`key`,`value`,`locale`,`extra_key`,`extra_sort_no`,`is_extra`,`is_use_calculate_vat`) VALUES (4,'extra_7','200',NULL,'อินเตอร์เน็ต',7,1,0);

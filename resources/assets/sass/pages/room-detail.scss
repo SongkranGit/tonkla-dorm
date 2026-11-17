@@ -1,0 +1,61 @@
+.room-detail {
+    .show-data {
+        margin-top: 7px;
+    }
+    .input-group[class*="col-"] {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .add-key-card-btn {
+        margin-bottom: 10px;
+    }
+    #move-room-modal {
+        .modal-dialog {
+            width: 80%;
+        }
+    }
+    #check-out-room-modal{
+        .modal-dialog {
+            max-width: 1200px;
+        }
+    }
+    .print-preview-wrapper {
+        border: 0;
+        padding: 20px; 
+        iframe {
+            border: 0; 
+        }
+    }
+    
+    .modal-overide .img-wrapper {
+        display: inline-block;
+        position: relative;  
+    }
+    .modal-overide .img-wrapper > img {
+        max-width: 900px; 
+    }
+      
+    .modal-overide .close {
+        position: absolute;
+        top: -12px;
+        right: -9px;
+        color: #333;
+        background-color: #fff;
+        opacity: 1;
+        border-radius: 50%;
+        width: 25px;
+        height: 25px;
+        padding: 0;
+        line-height: 0;
+        font-size: 0; 
+    }
+    
+    .modal-overide .close > span {
+        font-size: 25px;
+        line-height: 10px; 
+    }
+    
+    .language-selection {
+        display: inline-block;
+    }
+}

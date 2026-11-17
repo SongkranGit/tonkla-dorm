@@ -1,0 +1,1 @@
+var modal,app=angular.module("app",[]);app.config(["$interpolateProvider",function(a){a.startSymbol("<%"),a.endSymbol("%>")}]);var sys={init:function(){modal=new ModalClass,angular.bootstrap(document,["app"])}};$(document).ready(function(){sys.init()});

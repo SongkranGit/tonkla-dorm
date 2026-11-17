@@ -1,0 +1,19 @@
+.room-table {
+    td {
+        padding: 0 !important;
+        a {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            min-width: 50px;
+            min-height: 50px;
+            padding: 12px;
+            display: block;
+            color: #636b6f;
+            cursor: pointer;
+            .label {
+                font-size: 16px;
+            }
+        }
+    }
+}

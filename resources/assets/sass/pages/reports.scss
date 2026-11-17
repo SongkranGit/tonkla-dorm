@@ -1,0 +1,48 @@
+.monthly-report-container {
+    .monthly-report-table {
+        width:6200px;
+    }
+    .save-report {
+        margin-top: 15px;
+    }
+    .modal-dialog {
+        width: 220px;
+        background: white;
+        padding: 20px;
+    }
+    .room-number {
+        width: 250px !important;
+    }
+}
+
+
+.iframe-print-preview {
+    width: 900px;
+    height: 700px;
+}
+.iframe-print-checkout-preview{
+    width: 900px;
+    height: 700px;
+}
+@media all and (min-width: 320px) and (max-width: 780px) {
+    .iframe-print-preview {
+        width: 310px;
+        height: 710px;
+    }
+    .iframe-print-checkout-preview{
+        width: 280px;
+        height: 710px;
+    }
+}
+
+@media all and (min-width: 375px) and (max-width: 812px) {
+    .iframe-print-preview {
+        width: 310px;
+        height: 710px;
+    }
+    .iframe-print-checkout-preview{
+        width: 280px;
+        height: 710px;
+    }
+}
+

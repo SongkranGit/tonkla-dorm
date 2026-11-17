@@ -1,0 +1,54 @@
+body {
+    font-size: 16px;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 22px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+.content-header {
+    h1 {
+        font-size: 26px;
+    }
+    .breadcrumb {
+        font-size: 14px;
+    }
+}
+
+.white-background {
+    background: white;
+}
+
+
+@media print {
+    .hide-print {
+        display: none !important;
+        .btn-print {
+            margin: 0px;
+        }
+    }
+}
+
+@import "/pages/room-table";
+@import "/pages/room-detail";
+@import "/pages/equipment-table";
+@import "/pages/equipment-detail";
+@import "/pages/extra-setting-table";
+@import "/pages/room-detail";
+@import "/pages/reports";
